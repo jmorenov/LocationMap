@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"
+
+    ?>
+<resources>
+
+    <!--<item type="drawable" name="map"> <ImageView
+        android:id="@+id/Map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/map"
+        android:scaleType="centerCrop" />
+    </item>-->
+
+</resources>

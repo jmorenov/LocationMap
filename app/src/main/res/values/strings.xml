@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Primavera</string>
+    <string name="title_activity_main">Inicio</string>
+    <string name="title_section1">Mapa</string>
+    <string name="title_section2">Localizaciones Compartidas</string>
+    <string name="title_section3">Perfil</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_update_map">Actualizar Mapa</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="map_description">Mapa de posición</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_section_login1">Correo</string>
+    <string name="title_section_login2">Facebook</string>
+    <string name="title_section_login3">Google</string>
+    <string name="title_section_login4">Twitter</string>
+
+    <string name="accept_action">Aceptar</string>
+    <string name="cancel_action">Cancelar</string>
+    <string name="save_position">¿Guardar nueva posición?</string>
+
+    <string name="title_activity_contacts">Seleccionar Contacto</string>
+    <string name="action_select_map_position">Seleccionar posición</string>
+    <string name="action_get_map_position">Compartir posición</string>
+
+    <string name="action_show_number_position">Código de posición</string>
+    <string name="action_print_map">Foto del mapa completo</string>
+
+    <string name="error_select_position_first">Selecciona una posición primero</string>
+    <string name="error_code_position">Código de posición erróneo</string>
+
+    <string name="sucess_code_position">Posición seleccionada</string>
+
+    <string name="info_map">Manten pulsada una posición para seleccionarla.</string>
+
+    <string name="action_send_position_contacts">Enviar a contacto</string>
+
+    <string name="username">Usuario</string>
+    <string name="mail">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="cpassword">Confirmar Contraseña</string>
+    <string name="name">Nombre (Opcional)</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Regístrate</string>
+
+    <string name="login_success">Sesión iniciada correctamente</string>
+    <string name="login_fail">Fallo al iniciar sesión</string>
+    <string name="falta_pass">Debes introducir la contraseña</string>
+    <string name="falta_correo">Debes introducir el correo electrónico</string>
+
+    <string name="register_success">Registro realizado correctamente</string>
+    <string name="register_fail">Fallo al registrarte, puede que el usuario/correo electrónico esten siendo usados</string>
+
+    <string name="action_search">Buscar contacto</string>
+</resources>
